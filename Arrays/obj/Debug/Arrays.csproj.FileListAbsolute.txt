@@ -1,0 +1,8 @@
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\MISC\Education\DotNet\Projects\DS-A\Arrays\Arrays\obj\Debug\Arrays.pdb
